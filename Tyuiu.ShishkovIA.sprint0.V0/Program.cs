@@ -15,7 +15,6 @@ namespace Tyuiu.ShishkovIA.sprint0.task1.V0
             int age = 20;                  // 14.11.2002
             Console.WriteLine("Здраствуйте, меня зовут " + name + ", мне " + age + " лет!");
             Console.ReadKey();
-         
         }
     }
 }
